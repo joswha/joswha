@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋😄
 
 <!--
 **joswha/joswha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a newbie cybersecurity enthusiast, currently studying Computer Science at University of Groningen, Netherlands. Thanks for passing by 😛
