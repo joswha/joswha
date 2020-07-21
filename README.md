@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm a newbie cybersecurity enthusiast, currently studying Computer Science at University of Groningen, Netherlands. Thanks for passing by 😛
+
+![](https://github.com/joswha/joswha/blob/master/rowan.jpg)
