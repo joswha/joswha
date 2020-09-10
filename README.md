@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 👹 Interested in web application and network security, as well as pentesting.
 
 
-![](https://github.com/joswha/joswha/blob/master/samurai.gif
+![](https://github.com/joswha/joswha/blob/master/samurai.gif)
