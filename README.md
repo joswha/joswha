@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a newbie cybersecurity enthusiast, currently studying Computer Science at University of Groningen, Netherlands. Thanks for passing by 😛
+⚡ Currently studying Computer Science at University of Groningen, Netherlands. </br>
+👹 Interested in web application and network security, as well as pentesting.
 
-![](https://github.com/joswha/joswha/blob/master/samurai.gif)
+
+![](https://github.com/joswha/joswha/blob/master/samurai.gif
