@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 
 ![](https://github.com/joswha/joswha/blob/master/samurai.gif)
+![joswha's github stats](https://github-readme-stats.vercel.app/api?username=joswha&show_icons=true&theme=radical)
