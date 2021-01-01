@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 ### getBloggingActivity()
 ▶️ [How to prepare for the OSCP Labs](https://www.youtube.com/watch?v=6f3WI2tzD5o)</br>
 ▶️ [OSCP preparation(Playlist)](https://www.youtube.com/watch?v=Pq_cubtYwtc&list=PLyYdqUk5IYinNw2az93VIDwob7GYvKVS4)
-
-![](https://github.com/joswha/joswha/blob/master/samurai.gif)
