@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### {'About': 'me', '🎯'}
 🔭 Studying Computer Science at University of Groningen, Netherlands. </br>
 🌱 Interested in web application security and pentesting. </br>
-🗺 Currently working on [Bluuk](https://bluuk.io), the first multilingual bug bounty platform.
+🗺 Currently working on [Secure Coding Handbook](https://vladtoie.gitbook.io/secure-coding/). Your go-to for best practices on **Secure Coding**.
 
 ### getBloggingActivity()
 ▶️ [How to prepare for the OSCP Labs](https://www.youtube.com/watch?v=6f3WI2tzD5o)</br>
